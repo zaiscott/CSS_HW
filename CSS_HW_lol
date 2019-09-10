@@ -1,6 +1,6 @@
 <html>
 
-    <body>
+    
 
         <!-- head of website -->
 
@@ -12,6 +12,8 @@
 
             </title>
 
+            <link href="extra.css" type="text/css" rel="stylesheet"/>
+
         </head>
 
         <h1>
@@ -22,7 +24,7 @@
 
         
 
-        
+<body>
 
 
 
@@ -76,6 +78,8 @@
 
     <br>
 
+    <p>
+
     We at Harsh reviews take a real look at those popular games for the avergae gamer and rate them mainly on ease to play and ability to play with friends.
 
         <br>
@@ -86,7 +90,7 @@
 
     We give brutal honest reviews... ITS THAT SIMPLE.
 
-    
+    </p>
 
     <br>
 
