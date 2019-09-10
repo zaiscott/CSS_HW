@@ -1,0 +1,503 @@
+<html>
+
+    <body>
+
+        <!-- head of website -->
+
+        <head>
+
+            <title>
+
+            Harsh Reviews
+
+            </title>
+
+        </head>
+
+        <h1>
+
+        HARSH REVIEWS: Reviews of the games we play
+
+        </h1>
+
+        
+
+        
+
+
+
+    <!-- links between pages in same file -->
+
+<map name="#gameingMap">
+
+
+
+ <area shape="circle" coords="250,200,200" href="https://www.gamestop.com/"
+
+          target="_blank"/>
+
+</map>
+
+        
+
+    <h2>*Click on Gamer to go to Gamestop*</h2>
+
+
+
+    <img usemap="#gameingMap" src=images/gaming.jpg width="500px" />
+
+
+
+        
+
+
+
+    <br>
+
+        <h2>*Click on Links for our Game of the Week*</h2>
+
+
+
+    <a href="notes.html">Game of the Week </a>
+
+        <br>
+
+    <a href="reviewOne.html">Last Week's Game of the Week </a>
+
+  
+
+      <!--_blank is a new window -->
+
+  
+
+    
+
+    <br>
+
+    <br>
+
+    We at Harsh reviews take a real look at those popular games for the avergae gamer and rate them mainly on ease to play and ability to play with friends.
+
+        <br>
+
+    While games like Fortnite are the hot game now a days, you will see that we do not appreciate the complex nature of the difficult game and prefer the ease and relaxing nature of games
+
+        <br>
+
+    We give brutal honest reviews... ITS THAT SIMPLE.
+
+    
+
+    <br>
+
+    <br>
+
+    <a href="reviewTwo.html"> About our Authors </a>
+
+    
+
+    <br>
+
+    <br>
+
+    <img src="images/super-mario-bros-luigi-wario-yoshi-illustration-JMTNKA.jpg" alt="Mario" width=400>
+
+    
+
+    <br>
+
+    <br>
+
+    <h2>List of Favorite Games of All-Time:
+
+        <br>
+
+        *Click on pictures to go to their sites*
+
+    </h2>
+
+    <br>
+
+    <br>
+
+        <!-- for every item in the list add picture, site, and description of game -->
+
+    <ol>
+
+        <li> <h3> StarWars BattleFront 2  - 9.9/10</h3><br>
+
+            <map name="#starMap">
+
+
+
+                <area shape="circle" coords="150,100,100" href="https://www.ea.com/games/starwars/battlefront/battlefront-2"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+     
+
+
+
+            <img usemap="#starMap" src=images/star-wars-battlefront.jpg width="300px" />
+
+
+
+                
+
+            
+
+       
+
+            
+
+
+
+        </li>
+
+        <li> <h3>Super Smash Bros - 7.2/10</h3><br>
+
+            <map name="#smashMap">
+
+
+
+                <area shape="circle" coords="150,100,100" href="https://www.smashbros.com/en_US/"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+          
+
+
+
+            <img usemap="#smashMap" src=images/smash.jpg width="300px" />
+
+
+
+                
+
+
+
+        
+
+        
+
+        </li>
+
+        <li> <h3>Wii Sports - 6.4/10</h3> <br>
+
+            <map name="#sportMap">
+
+
+
+                <area shape="circle" coords="150,100,100" href="https://www.gamestop.com/video-games/more-platforms/nintendo-wii/games/products/wii-sports/10065517.html"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+           
+
+
+
+            <img usemap="#sportMap" src=images/sports.jpg width="300px" />
+
+
+
+                
+
+
+
+     
+
+           
+
+        </li>
+
+        <li> <h3>Minecraft - 7.8/10</h3> <br>
+
+            <map name="#mineMap">
+
+
+
+                <area shape="circle" coords="150,100,100" href="https://www.minecraft.net/en-us/"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+     
+
+
+
+            <img usemap="#mineMap" src=images/minecraft.jpg width="300px" />
+
+
+
+        </li>
+
+        <li> <h3>Fortnite  - 5.6/10</h3><br>
+
+            <map name="#fortMap">
+
+
+
+                <area shape="circle" coords="150,100,100" href="https://www.epicgames.com/fortnite/en-US/home"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+
+
+
+
+            <img usemap="#fortMap" src=images/fortnite.jpg width="300px" />
+
+
+
+    
+
+         
+
+        </li>
+
+        <li> <h3>Halo: Reach - 9.2/10 </h3><br>
+
+            <map name="#haloMap">
+
+
+
+                <area shape="circle" coords="150,100,100" href="https://halo.bungie.net/projects/reach/"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+
+
+
+
+            <img usemap="#haloMap" src=images/halo.jpg width="300px" />
+
+
+
+       
+
+            
+
+        </li>
+
+        <li> <h3>Call of Duty: Modern Warfare 2 - 8.9/10 </h3><br>
+
+            <map name="#codMap">
+
+
+
+                <area shape="circle" coords="150,200,250" 
+
+                href="https://www.callofduty.com/"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+      
+
+
+
+            <img usemap="#codMap" src=images/cod.jpg width="300px" />
+
+
+
+   
+
+            
+
+        </li>
+
+        <li> <h3>Madden 20 - 5.2/10</h3> <br>
+
+            
+
+            <map name="#madMap">
+
+
+
+                <area shape="circle" coords="150,100,100" 
+
+                href="https://www.ea.com/games/madden-nfl/madden-nfl-20"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+    
+
+
+
+            <img usemap="#madMap" src=images/madden.jpg width="300px" />
+
+
+
+      
+
+           
+
+        </li>
+
+        <li><h3> NBA 2k20 - 5/10 </h3><br>
+
+            
+
+            <map name="#nbaMap">
+
+
+
+                <area shape="circle" coords="150,100,100" 
+
+                href="https://nba.2k.com/en-US/"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+
+
+
+
+            <img usemap="#nbaMap" src=images/nba.jpg width="300px" />
+
+
+
+ 
+
+          
+
+        </li>
+
+        <li><h3> Destiny -  4.3/10</h3> </li>
+
+        
+
+            
+
+            <map name="#destinyMap">
+
+
+
+                <area shape="circle" coords="150,200,250" 
+
+                href="https://www.bungie.net/7/en/Destiny/Shadowkeep"
+
+                target="_blank"/>
+
+            </map>
+
+        
+
+   
+
+
+
+            <img usemap="#destinyMap" src=images/destiny.jpg width="300px" />
+
+
+
+   
+
+  
+
+        
+
+         
+
+        
+
+    </ol>
+
+    
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
